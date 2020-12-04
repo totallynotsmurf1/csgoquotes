@@ -1,0 +1,41 @@
+.textbox {
+  margin-top: 10%;
+  background-color: #61B2DA;
+  width: 100%;
+  height: 420px;
+  display: table;
+}
+
+#quotes {
+display: table-cell;
+vertical-align: middle;
+text-align: center;
+color: white;
+font-family: 'Montserrat', sans-serif;
+font-size: 40px;
+
+
+
+
+  /*margin-top: 10%;
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 40px;*/
+
+}
+#quotegen {
+  text-align: center;
+  width: 600px;
+  height: 150px;
+  background-color: cyan;
+  font-size: 50px;
+  border-color: cyan;
+}
+.button1 {
+  text-align: center;
+}
+
+.bg {
+  background-color: #61B2DA;
+}
